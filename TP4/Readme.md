@@ -97,7 +97,17 @@ tcp            ESTAB           0                0                               
 
 ...
 
+### 🌞 Dans le rendu, je veux
 
+
+### 🌞 Ouvrez le bon port dans le firewall
+
+
+## 3. Test
+
+### 🌞 Sur la machine node1.tp4.b1
+
+### 🌞 Sur votre PC
 
 
 
