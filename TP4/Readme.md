@@ -109,6 +109,9 @@ tcp            ESTAB           0                0                               
 
 ### 🌞 Sur votre PC
 
+Je suis désolée mais j'ai un probleme avec UTM, le ssh ne veut meme plus ce connecter et je n'arrive pas a installez le dns.
+J'ai tout essayer mais ça ne fonctionne pas 
+
 
 
 
