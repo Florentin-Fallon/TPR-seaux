@@ -95,23 +95,9 @@ tcp            ESTAB           0                0                               
 
 ## III. DNS
 
-...
+## 2. Setup
 
-### 🌞 Dans le rendu, je veux
+Je suis désolée mais j'ai un problème avec UTM, les vm et le ssh ne veut même plus ce connecter.
+j'ai désinstallez la vm dns-server et je l'ai réinstallez mais rien ne veut fonctionner même le ***" $ sudo dnf update -y / sudo dnf install -y bind bind-utils"***, j'ai plein d'erreur qui s'affiche.
 
-
-### 🌞 Ouvrez le bon port dans le firewall
-
-
-## 3. Test
-
-### 🌞 Sur la machine node1.tp4.b1
-
-### 🌞 Sur votre PC
-
-Je suis désolée mais j'ai un probleme avec UTM, le ssh ne veut meme plus ce connecter et je n'arrive pas a installez le dns.
-J'ai tout essayer mais ça ne fonctionne pas 
-
-
-
-
+je suis compréhensible pour la note que vous allez me donner
